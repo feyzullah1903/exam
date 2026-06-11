@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/GW3WUOl13g=",
+  "dgSpecHash": "2+1aV+CxmnQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\cff\\Desktop\\Circle\\Circle.csproj",
+  "projectFilePath": "C:\\Users\\cff\\Desktop\\exam\\Circle\\Circle.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cff\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\cff\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
